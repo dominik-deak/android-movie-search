@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coursework2</string>
+    <string name="addToDbButtonText">Add movies to database</string>
+    <string name="searchMoviesButtonText">Search for movies</string>
+    <string name="searchActorsButtonText">Search for actors</string>
+    <string name="omdbApiKey">cf8b4d2</string>
+    <string name="movieSearchHint">Enter movie name</string>
+    <string name="actorSearchHint">Enter actor name</string>
+    <string name="retrieveMovieButtonText">Retrieve movie</string>
+    <string name="saveMovieButtonText">Save movie to DB</string>
+    <string name="searchActorsButton">Search actor</string>
+    <string name="searchMoviesWithSubstringButtonText">Search for movies\n(with sub-string)</string>
+</resources>
